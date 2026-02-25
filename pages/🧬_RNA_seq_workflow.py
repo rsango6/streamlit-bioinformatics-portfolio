@@ -8,6 +8,8 @@ st.set_page_config(page_title="RNA-seq Analysis",
                    layout="wide")
 st.title("Interactive RNA-Seq Volcano Plot")
 
+st.subheader("Anonymized data usually obtained from a differential gene expression pipeline.")
+
 #1. Load Data (using st.cache_data so it doesn't reload on every click)
 
 @st.cache_data
