@@ -1,0 +1,15 @@
+[theme]
+# This locks the overall base to light mode
+base = "light"
+
+# 1. Primary Accent Color (Changes your buttons, sliders, and active tabs)
+primaryColor = "#2C3E50" # A nice professional slate blue
+
+# 2. Main Background Color (The big area where your charts go)
+backgroundColor = "#FFFFFF" # Pure white
+
+# 3. Secondary Background Color (Your sidebar and the background of number inputs)
+secondaryBackgroundColor = "#F0F2F6" # A very soft gray
+
+# 4. Main Text Color
+textColor = "#31333F" # Dark charcoal for high readability
