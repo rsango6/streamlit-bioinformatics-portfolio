@@ -11,7 +11,7 @@ If you would like to run this application on your local machine, follow these st
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)rsango6/streamlit-bioinformatics-portfolio.git
+   git clone https://github.com/rsango6/streamlit-bioinformatics-portfolio.git
    cd bioinformatics-portfolio
 
    ```
